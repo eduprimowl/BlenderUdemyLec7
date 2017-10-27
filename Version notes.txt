@@ -1,1 +1,1 @@
-Added Frame to Innet/Outer door
+Made shape of building to check sizes
