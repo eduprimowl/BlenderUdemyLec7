@@ -1,0 +1,2 @@
+Added Window Frame to Inner/Outer Window
+Added Window sill to Inner/Outer window
