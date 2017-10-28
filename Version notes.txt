@@ -1,1 +1,2 @@
-Made shape of building to check sizes
+Made shape of building ade from linked parts
+Fixed Brickle Depth on Door and Windows
